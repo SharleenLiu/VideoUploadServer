@@ -1,0 +1,14 @@
+C:\2012\VideoUploadServer\UploadVideoClients\obj\Debug\UploadVideoClients.csprojResolveAssemblyReference.cache
+C:\2012\VideoUploadServer\UploadVideoClients\obj\Debug\UploadVideoClients.exe
+C:\2012\VideoUploadServer\UploadVideoClients\obj\Debug\UploadVideoClients.pdb
+C:\2012\VideoUploadServer\UploadVideoClients\UploadVideoClients.exe
+C:\2012\VideoUploadServer\UploadVideoClients\UploadVideoClients.pdb
+C:\2012\VideoUploadServer\UploadVideoClients\Microsoft.Web.Infrastructure.dll
+C:\2012\VideoUploadServer\UploadVideoClients\Newtonsoft.Json.dll
+C:\2012\VideoUploadServer\UploadVideoClients\System.Net.Http.Formatting.dll
+C:\2012\VideoUploadServer\UploadVideoClients\System.Web.Http.dll
+C:\2012\VideoUploadServer\UploadVideoClients\System.Web.Http.WebHost.dll
+C:\2012\VideoUploadServer\UploadVideoClients\Newtonsoft.Json.xml
+C:\2012\VideoUploadServer\UploadVideoClients\System.Net.Http.Formatting.xml
+C:\2012\VideoUploadServer\UploadVideoClients\System.Web.Http.xml
+C:\2012\VideoUploadServer\UploadVideoClients\System.Web.Http.WebHost.xml
